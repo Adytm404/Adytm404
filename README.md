@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Alibaba Cloud Academy**
 
-- 💬 Ask me about **php, wordpress, css, bootstrap, bulma, Elementor**
+- 💬 Ask me about **php, wordpress, css, bootstrap, bulma, elementor**
 
 - 📫 How to reach me **ogyaadyatma@gmail.com**
 
