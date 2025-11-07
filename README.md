@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **php, wordpress, css, bootstrap, bulma, elementor**
 
-- 📫 How to reach me **ogyaadyatma@gmail.com**
+- 📫 How to reach me **ogya@nyanhosting.id**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
